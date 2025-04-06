@@ -33,7 +33,7 @@ These tools come pre-installed with Kali Linux: nmap nuclei nikto amass smbmap e
 - Python 3.x
 - tkinter (usually included with Python)
 
-## Kali Linux Installation
+## Kali Linux then script instalattion
 
 1. First, update your Kali Linux:
    ```bash
